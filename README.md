@@ -1,6 +1,6 @@
 # ContagemCores_GoogleSheets
 
-Macros no Google Sheet, para contagem de células coloridas em uma planilha. Conta a quantidade de cores foi atribuída para determinada pessoa.
+Macros no Google Sheet, para contagem de células coloridas em uma planilha. Conta a quantidade de cores que foi atribuída para determinada pessoa.
 
 Aborda duas modalidades:
 
